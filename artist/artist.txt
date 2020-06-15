@@ -17,6 +17,8 @@ Billie Marten
 Fiona Apple
 Brandi Carlile
 The Cure
+The Rolling Stones
+The Beatles
 Kim Taylor
 SYML
 The Coral Sea
@@ -124,4 +126,5 @@ Jon Schmidt
 α·Pav
 Bob Dylan
 Coldplay
-Hans Zimmer 
+Hans Zimmer
+Concrete Blonde
